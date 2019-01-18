@@ -1,7 +1,7 @@
 {
   "name": "blockchain-postgres-sync",
   "version": "0.3.1",
-  "description": "A set of scripts to download and update Waves blockchain history data into a PostgreSQL database.",
+  "description": "A set of scripts to download and update Acryl blockchain history data into a PostgreSQL database.",
   "main": "src/update.js",
   "author": "Dmitry Shuranov <shuranov@wavesplatform.com>",
   "license": "MIT",

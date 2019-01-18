@@ -1,5 +1,5 @@
 # Node to get data from. Can be localhost.
-nodeAddress: https://nodes.wavesnodes.com
+nodeAddress: https://nodes.acrylplatform.com
 
 # Determines what to do if blocks on this height already exists in the database. 
 # Possible options:

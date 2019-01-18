@@ -1074,7 +1074,7 @@ CREATE VIEW public.assets AS
 UNION ALL
  SELECT 'WAVES'::character varying AS asset_id,
     'WAVES'::text AS ticker,
-    'Waves'::character varying AS asset_name,
+    'Acryl'::character varying AS asset_name,
     ''::character varying AS description,
     ''::character varying AS sender,
     0 AS issue_height,
